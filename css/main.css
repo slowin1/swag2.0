@@ -1,0 +1,55 @@
+.conteiner {
+}
+body {
+    background-color:#ffffff ;
+}
+
+.images {
+    vertical-align: middle; 
+}
+
+.imgcase {
+    width: 100%;
+    height: auto;
+}
+
+.imgcase video {
+    width: 100%;
+    height: auto;
+}
+
+h5 {
+    position: absolute;
+    color: #ffffff;
+    top: 0;
+    
+}
+
+.imgcase {
+   
+}
+
+.image-conteiner video{
+    background-color:black !important;
+}
+
+.image-conteiner h5{
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    vertical-align: middle
+}
+
+.conteiner-video {
+    width: 100%;
+    height: auto;
+}
+
+.conteiner-video video{
+    width: 90%;
+}
+
+.bg-dark {
+
+}
